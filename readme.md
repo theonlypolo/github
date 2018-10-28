@@ -43,3 +43,9 @@ Simple cheatsheet for git commands
 
 **git merge another-branch**
 - merges branch, make sure you are in master
+
+**git branch -d another-branch**
+- delete branch Locally
+
+**git push origin --delete <branch_name>**
+- delete branch remotely
