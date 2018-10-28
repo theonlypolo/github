@@ -16,3 +16,6 @@ Simple cheatsheet for git commands
 
 **git commit**
 - leaving it empty opens editor to add more description, first line is title
+
+**git remote add origin https://github.com/theonlypolo/*projectname*.git""
+- push to github or remote repository
