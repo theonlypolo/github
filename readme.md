@@ -18,4 +18,13 @@ Simple cheatsheet for git commands
 - leaving it empty opens editor to add more description, first line is title
 
 **git remote add origin https://github.com/theonlypolo/*projectname*.git""
-- push to github or remote repository
+- add to github or remote repository
+
+**git push -u origin master**
+- push to remote for initial commit
+
+**git push**
+- used anytime after first push to remote
+
+**git clone _url_**
+- copy a repo to local computer
