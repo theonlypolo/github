@@ -39,3 +39,7 @@ Simple cheatsheet for git commands
 - switch branches
 
 **git checkout -b another-branch**
+- create a new branches
+
+**git merge another-branch**
+- merges branch, make sure you are in master
